@@ -2,7 +2,7 @@
 <ul>
   <li>🔭 I’m currently working on my matchmaking mobile app</li>
   <br>
-  <li>🌱 I’m currently learning TypeScript</li>
+  <li>🌱 I’m currently learning TypeScript and Red Team/Pentest</li>
   <br>
   <li>🤔 I’m looking for help with neural networks and coding best practices</li>
   <br>
