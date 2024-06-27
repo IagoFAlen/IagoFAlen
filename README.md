@@ -10,4 +10,4 @@
 <br>
 <br>
 
-<img src="https://static.wikia.nocookie.net/mugen/images/5/5f/InfiniteJinHTH.gif/revision/latest/scale-to-width-down/629?cb=20220103001707" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 629px; height: 231px; margin: 0px; width: 559px;" alt="Infinite's version | MUGEN Database | Fandom" jsname="kn3ccd">
+<img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 1400px; height: 406px; margin: 0px; width: 721px;" alt="Cyberpunk Projects :: Photos, videos, logos, illustrations and ..." jsname="kn3ccd">
