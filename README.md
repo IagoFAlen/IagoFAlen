@@ -1,4 +1,4 @@
-<h1 align="left">Hi dear, I'm Iago, a brazilian developer and lifelong learner 💻! </h1>
+<h1 align="left">Hi dear, I'm Iago 🇧🇷, a developer and lifelong learner 💻! </h1>
 <ul>
   <li>🔭 I’m currently working on my matchmaking mobile app</li>
   <li>🌱 I’m currently learning TypeScript</li>
