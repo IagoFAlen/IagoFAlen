@@ -1,9 +1,13 @@
 <h1 align="left">Hi dear, I'm Iago 🇧🇷, a developer and lifelong learner 💻! </h1>
 <ul>
   <li>🔭 I’m currently working on my matchmaking mobile app</li>
+  <br>
   <li>🌱 I’m currently learning TypeScript</li>
+  <br>
   <li>🤔 I’m looking for help with neural networks and coding best practices</li>
+  <br>
   <li>💬 Ask me about anything, hope we can build something together!</li>
+  <br>
   <li>🗨️ Linkedin: https://www.linkedin.com/in/iagofigueira/</li>
 </ul>
 
