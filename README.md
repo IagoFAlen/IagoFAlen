@@ -1,6 +1,6 @@
 <h1 align="left">Hi dear, I'm Iago 🇧🇷, a developer 💻 and lifelong learner! </h1>
 <ul>
-  <li>🔭 I’m currently working on <s>90367a7fc46ffc9332881f69abdb1abe</s> (my matchmaking mobile app name as hash)</li>
+  <li>🔭 I’m currently working on 90367a7fc46ffc9332881f69abdb1abe <s>(my matchmaking mobile app name hashed)</s></li>
   <br>
   <li>🌱 I’m currently learning TypeScript and Red Team/Pentest</li>
   <br>
