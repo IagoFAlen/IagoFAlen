@@ -84,7 +84,6 @@ I'm studying offensive security with a focus on network protocols, vulnerability
 
 - 💬 Let’s build something together  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/iagofigueira)  
-- 📧 iago.figueira@protonmail.com
 
 ---
 
