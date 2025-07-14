@@ -58,7 +58,6 @@
 
 - 💬 Let’s build something!  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/iagofigueira)  
-- 📧 iago.figueira@protonmail.com
 
 ---
 
