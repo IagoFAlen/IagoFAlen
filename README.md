@@ -53,12 +53,23 @@ Topics of interest include:
 
 ---
 
+### 🛡️ Pentesting & Security
+
+I'm studying offensive security with a focus on network protocols, vulnerability exploitation, and system analysis. I enjoy understanding how systems fail and how to detect, prevent, and explore those failures from an ethical hacking perspective.
+
+- Network enumeration and packet analysis  
+- Exploit development and privilege escalation  
+- Red Team labs and real-world attack simulation  
+- Active learner at TryHackMe → [SirFAlen](https://tryhackme.com/p/SirFAlen)
+
+---
+
 ### 📂 Projects
 
 - Adaptive neural network in C with dynamic layers, backpropagation, and skill-level prediction  
-- Product recommendation system using sentence embeddings and category hierarchy (Transformers)
+- Product recommendation system using sentence embeddings and category hierarchy  
 - Design system using TypeScript and Stitches for responsive, customizable UI  
-- Mobile app for matchmaking and review, with React Native, Node.js backend and PostgreSQL database
+- Mobile app for book organization and review, with Node.js backend and PostgreSQL database
 
 ---
 
@@ -73,6 +84,7 @@ Topics of interest include:
 
 - 💬 Let’s build something together  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/iagofigueira)  
+- 📧 iago.figueira@protonmail.com
 
 ---
 
